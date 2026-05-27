@@ -46,7 +46,7 @@
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=VictorLauriaCrz&show_icons=true&theme=radical&bg_color=00000000&hide_border=true&locale=pt-br)
 <br clear="both">
 
-<div align="left">
+<div align="centert">
   <img height="28" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
 </div>
 
