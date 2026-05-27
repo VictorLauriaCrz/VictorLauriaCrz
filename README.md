@@ -43,6 +43,7 @@
 
 ###
 
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=VictorLauriaCrz&show_icons=true&theme=radical&bg_color=00000000&hide_border=true&locale=pt-br)
 <br clear="both">
 
 <div align="left">
