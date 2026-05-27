@@ -63,18 +63,5 @@
   <img height="28" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=VictorLauriaCrz.VictorLauriaCrz&"  />
-</div>
-
-###
-
-
-###
-
-<br clear="both">
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=d63384&height=120&section=footer"/>
