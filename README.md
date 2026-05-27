@@ -37,16 +37,14 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=VictorLauriaCrz&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+<div align="center>
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=VictorLauriaCrz&show_icons=true&theme=radical&bg_color=00000000&hide_border=true&locale=pt-br)
+<br clear="both">
 </div>
 
 ###
 
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=VictorLauriaCrz&show_icons=true&theme=radical&bg_color=00000000&hide_border=true&locale=pt-br)
-<br clear="both">
-
-<div align="centert">
+<div align="center">
   <img height="28" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
 </div>
 
